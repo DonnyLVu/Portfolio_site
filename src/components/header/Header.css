@@ -1,0 +1,20 @@
+.nav-link {
+  color: whitesmoke;
+  height: 100%;
+  margin-right: 50px;
+  margin-left: 50px;
+  font-size: 2em;
+  display: inline;
+  text-decoration: none;
+}
+
+.header-links {
+  background:rgb(23, 62, 160);
+  display: flex;
+  height: 10%;
+  width: fit-content;
+  text-align: center;
+  border: 10px outset #2d678e;
+  position: relative;
+  text-decoration: none;
+}

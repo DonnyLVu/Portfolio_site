@@ -1,5 +1,5 @@
 # portfolio_site
-Donny's portfolio site number 1
+Donny's portfolio site
 
 # Getting Started with Create React App
 
